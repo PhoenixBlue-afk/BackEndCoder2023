@@ -1,1 +1,0 @@
-[{"id":0,"title":"Producto1","description":"Desc 1","price":300,"code":"Code 1","stock":300,"status":true},{"id":1,"title":"Producto3","description":"Desc 3","price":300,"code":"Code 3","stock":300,"status":true}]
