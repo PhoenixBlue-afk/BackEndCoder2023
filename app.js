@@ -79,8 +79,7 @@ class ProductManager {
     }
 }
 let Manager = new ProductManager
-Manager.addProduct("title","desc",10,"thumbnail","code",10)
-Manager.addProduct("title2","desc2",10,"thumbnail2","code2",10)
+
 class Carrito{
     constructor(){
         this.id = 0
